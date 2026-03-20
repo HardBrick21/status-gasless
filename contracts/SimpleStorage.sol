@@ -19,6 +19,7 @@ contract SimpleStorage {
     }
     
     function registerAgent(address _agent) external {
+        require(_agent != address(0), "Invalid agent address");
         require(msg.sender == owner, "Only owner");
         agent = _agent;
         emit AgentRegistered(_agent);
