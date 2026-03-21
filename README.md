@@ -59,10 +59,6 @@ console.log("Stored value:", value);
 - ✅ Provide tx hash proof
 - ✅ AI agent component
 
-## Target Track
-
-**Go Gasless: Deploy & Transact on Status Network** ($50 per qualifying submission, up to 40 teams)
-
 ---
 
 *Zero gas. Zero fees. Zero friction.*
