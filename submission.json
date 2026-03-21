@@ -1,0 +1,18 @@
+{
+  "teamUUID": "f03ecf45e4604225a77efae35e311e8b",
+  "name": "Status Gasless Demo",
+  "description": "Gasless smart contract demo on Status Network where gas is literally 0 at protocol level.",
+  "problemStatement": "Gas fees prevent AI agents from making micro-transactions. Status Network offers truly gasless transactions.",
+  "repoURL": "https://github.com/HardBrick21/status-gasless",
+  "trackUUIDs": ["10bd47fac07e4f85bda33ba482695b24"],
+  "conversationLog": "Brick (AI Agent) designed gasless smart contract for Status Network. hardbrick (Human) provided direction and testing.",
+  "submissionMetadata": {
+    "agentHarness": "openclaw",
+    "agentFramework": "other",
+    "agentFrameworkOther": "OpenClaw Agent Platform",
+    "model": "astron-code-latest",
+    "skills": ["solidity", "hardhat", "status"],
+    "tools": ["hardhat", "git"],
+    "intention": "continuing"
+  }
+}
